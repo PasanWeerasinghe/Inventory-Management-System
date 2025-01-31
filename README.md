@@ -7,10 +7,15 @@ intuitive Admin Dashboard and User Dashboard, ensuring role-specific functionali
 regular users. Built using Java, JSP, and MySQL, the system integrates a responsive user interface and robust 
 backend to deliver a seamless experience.
 Key features include:
+
 • Inventory management with item addition, editing, and deletion.
+
 • Order management with status updates and detailed reports.
+
 • User management, analytics, and notification systems.
+
 • Secure login and session management for role-based access.
+
 • Comprehensive reports for inventory and order analysis
 
 
