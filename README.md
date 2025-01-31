@@ -1,4 +1,5 @@
 1. EXECUTIVE SUMMARY
+   
 The Inventory Management System (IMS) project aims to simplify and streamline inventory management 
 processes for businesses. This web-based solution allows users to efficiently manage inventory, orders, and user 
 accounts while providing real-time analytics, notifications, and customizable settings. The project includes an 
@@ -13,7 +14,7 @@ Key features include:
 • Comprehensive reports for inventory and order analysis
 
 
-2. INTRODUCTION
+3. INTRODUCTION
 Inventory management is crucial for businesses to track stock levels, orders, sales, and deliveries. The IMS 
 project was designed to automate these tasks, reducing manual errors and enhancing efficiency. This system 
 caters to the dual needs of administrators and regular users, offering tailored dashboards with distinct features.
@@ -25,7 +26,7 @@ of its functionality and architecture.
 
 
 
-3. SYSTEM OBJECTIVES
+4. SYSTEM OBJECTIVES
 Streamlined Inventory Management:
 • Enable administrators to add, edit, delete, and view inventory items.
 • Display low-stock alerts and inventory statistics through a dynamic dashboard.
@@ -46,7 +47,7 @@ Customization and Security:
 
 
 
-4. FUNCTIONAL REQUIREMENTS
+5. FUNCTIONAL REQUIREMENTS
 The functional requirements of the Inventory Management System are categorized into modules to ensure 
 clear and concise understanding:
 
