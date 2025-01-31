@@ -14,7 +14,8 @@ Key features include:
 • Comprehensive reports for inventory and order analysis
 
 
-3. INTRODUCTION
+2. INTRODUCTION
+   
 Inventory management is crucial for businesses to track stock levels, orders, sales, and deliveries. The IMS 
 project was designed to automate these tasks, reducing manual errors and enhancing efficiency. This system 
 caters to the dual needs of administrators and regular users, offering tailored dashboards with distinct features.
@@ -26,7 +27,8 @@ of its functionality and architecture.
 
 
 
-4. SYSTEM OBJECTIVES
+3. SYSTEM OBJECTIVES
+   
 Streamlined Inventory Management:
 • Enable administrators to add, edit, delete, and view inventory items.
 • Display low-stock alerts and inventory statistics through a dynamic dashboard.
@@ -47,7 +49,8 @@ Customization and Security:
 
 
 
-5. FUNCTIONAL REQUIREMENTS
+4. FUNCTIONAL REQUIREMENTS
+   
 The functional requirements of the Inventory Management System are categorized into modules to ensure 
 clear and concise understanding:
 
@@ -107,6 +110,7 @@ Generate various reports:
 
 
 5. SYSTEM DESIGN
+   
 5.1 Architecture
 The system employs a three-tier architecture to ensure scalability, modularity, and ease of 
 maintenance:
