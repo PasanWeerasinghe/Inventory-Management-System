@@ -19,6 +19,8 @@ Key features include:
 • Comprehensive reports for inventory and order analysis
 
 
+
+
 2. INTRODUCTION
    
 Inventory management is crucial for businesses to track stock levels, orders, sales, and deliveries. The IMS 
@@ -32,23 +34,40 @@ of its functionality and architecture.
 
 
 
+
+
 3. SYSTEM OBJECTIVES
    
 Streamlined Inventory Management:
+
 • Enable administrators to add, edit, delete, and view inventory items.
+
 • Display low-stock alerts and inventory statistics through a dynamic dashboard.
+
 Efficient Order Handling:
+
 • Provide tools to manage and update order statuses.
+
 • Generate detailed reports for order tracking and analysis.
+
 User Account Management:
+
 • Allow administrators to add, edit, and delete user accounts.
+
 • Facilitate role-based access with secure session management.
+
 Real-Time Analytics and Notifications:
+
 • Display key performance metrics like recent sales, pending orders, and stock levels.
+
 • Notify users of important updates, low-stock alerts, and order statuses.
+
 Customization and Security:
+
 • Offer personalized settings for better usability.
+
 • Ensure data security through robust login and access control mechanisms
+
 
 
 
@@ -60,11 +79,17 @@ The functional requirements of the Inventory Management System are categorized i
 clear and concise understanding:
 
 4.1 User Management
+
 Admin Features:
+
 • Add new users to the system.
+
 • Edit existing user details (e.g., username, role).
+
 • Delete users with confirmation prompts.
+
 • View a list of all users with their roles and details.
+
 
 User Features:
 • Secure login and logout.
